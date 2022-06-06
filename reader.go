@@ -7,6 +7,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+
+	"github.com/SebastiaanKlippert/go-foxpro-dbf/jd"
 	"io"
 	"math"
 	"os"
@@ -14,8 +16,6 @@ import (
 	"strconv"
 	"strings"
 	"time"
-
-	"github.com/carlosjhr64/jd"
 )
 
 var (
