@@ -7,7 +7,6 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-
 	"github.com/SebastiaanKlippert/go-foxpro-dbf/jd"
 	"io"
 	"math"
